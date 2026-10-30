@@ -1,0 +1,685 @@
+{
+  "version": "2026-10-30",
+  "projects": [
+    {
+      "name": "PlanFibra",
+      "url": "https://planfibra.cl",
+      "category": "Conectividad",
+      "description": "Compara internet fibra y TV en Chile.",
+      "emoji": "🌐",
+      "featured": true,
+      "kind": "public",
+      "slug": "planfibra"
+    },
+    {
+      "name": "ComparaFibra",
+      "url": "https://comparafibra.cl",
+      "category": "Conectividad",
+      "description": "Explora alternativas de fibra óptica para tu hogar.",
+      "emoji": "🔎",
+      "featured": true,
+      "kind": "public",
+      "slug": "comparafibra"
+    },
+    {
+      "name": "PlanMóvil",
+      "url": "https://planmovil.cl",
+      "category": "Conectividad",
+      "description": "Telefonía móvil y conectividad familiar.",
+      "emoji": "📱",
+      "featured": true,
+      "kind": "public",
+      "slug": "planmovil"
+    },
+    {
+      "name": "EligeFibra",
+      "url": "https://eligefibra.planfibra.cl",
+      "category": "Conectividad",
+      "description": "Elige internet según factibilidad y necesidades.",
+      "emoji": "⚡",
+      "featured": true,
+      "kind": "public",
+      "slug": "eligefibra"
+    },
+    {
+      "name": "EligeInternet",
+      "url": "https://eligeinternet.planfibra.cl",
+      "category": "Conectividad",
+      "description": "Descubre opciones de internet residencial.",
+      "emoji": "📶",
+      "featured": false,
+      "kind": "public",
+      "slug": "eligeinternet"
+    },
+    {
+      "name": "PuntoFibra",
+      "url": "https://puntofibra.planfibra.cl",
+      "category": "Conectividad",
+      "description": "Alternativas y orientación sobre fibra óptica.",
+      "emoji": "🎯",
+      "featured": false,
+      "kind": "public",
+      "slug": "puntofibra"
+    },
+    {
+      "name": "Premium",
+      "url": "https://premium.planfibra.cl",
+      "category": "Conectividad",
+      "description": "Asesoría especializada para internet hogar.",
+      "emoji": "💎",
+      "featured": false,
+      "kind": "public",
+      "slug": "premium"
+    },
+    {
+      "name": "PlanFibra Chile",
+      "url": "https://chile.planfibra.cl",
+      "category": "Conectividad",
+      "description": "Conectividad y orientación en Chile.",
+      "emoji": "🇨🇱",
+      "featured": false,
+      "kind": "public",
+      "slug": "planfibra-chile"
+    },
+    {
+      "name": "PlanFibra Biobío",
+      "url": "https://biobio.planfibra.cl",
+      "category": "Conectividad",
+      "description": "Internet en las comunas de la Región del Biobío.",
+      "emoji": "🌊",
+      "featured": false,
+      "kind": "public",
+      "slug": "planfibra-biobio"
+    },
+    {
+      "name": "ParaísoFibra",
+      "url": "https://paraisofibra.planfibra.cl",
+      "category": "Conectividad",
+      "description": "Soluciones de fibra óptica para el hogar.",
+      "emoji": "🌴",
+      "featured": false,
+      "kind": "public",
+      "slug": "paraisofibra"
+    },
+    {
+      "name": "Aperturas",
+      "url": "https://aperturas.planfibra.cl",
+      "category": "Conectividad",
+      "description": "Aperturas y expansión de cobertura.",
+      "emoji": "📍",
+      "featured": false,
+      "kind": "public",
+      "slug": "aperturas"
+    },
+    {
+      "name": "PlanFibra.com",
+      "url": "https://planfibra.com",
+      "category": "Conectividad",
+      "description": "Dominio de acceso complementario a PlanFibra.",
+      "emoji": "🔗",
+      "featured": false,
+      "kind": "public",
+      "slug": "planfibra-com"
+    },
+    {
+      "name": "Internet VTR",
+      "url": "https://internet.planfibra.cl",
+      "category": "Micrositios",
+      "description": "Alternativas de internet y TV VTR.",
+      "emoji": "📺",
+      "featured": false,
+      "kind": "public",
+      "slug": "internet-vtr"
+    },
+    {
+      "name": "Planes Claro",
+      "url": "https://planes.planfibra.cl",
+      "category": "Micrositios",
+      "description": "Opciones de internet hogar Claro.",
+      "emoji": "📡",
+      "featured": false,
+      "kind": "public",
+      "slug": "planes-claro"
+    },
+    {
+      "name": "Ofertas Entel",
+      "url": "https://ofertas.planfibra.cl",
+      "category": "Micrositios",
+      "description": "Conectividad y promociones Entel.",
+      "emoji": "🎁",
+      "featured": false,
+      "kind": "public",
+      "slug": "ofertas-entel"
+    },
+    {
+      "name": "Fibra Movistar",
+      "url": "https://fibra.planfibra.cl",
+      "category": "Micrositios",
+      "description": "Opciones de fibra óptica Movistar.",
+      "emoji": "🟦",
+      "featured": false,
+      "kind": "public",
+      "slug": "fibra-movistar"
+    },
+    {
+      "name": "Fibra + TV",
+      "url": "https://mejor.planfibra.cl",
+      "category": "Micrositios",
+      "description": "Internet y televisión para el hogar.",
+      "emoji": "🎬",
+      "featured": false,
+      "kind": "public",
+      "slug": "fibra-tv"
+    },
+    {
+      "name": "Hogar Conectado",
+      "url": "https://hogar.planfibra.cl",
+      "category": "Micrositios",
+      "description": "Conectividad para familias y trabajo.",
+      "emoji": "🏠",
+      "featured": false,
+      "kind": "public",
+      "slug": "hogar-conectado"
+    },
+    {
+      "name": "ConectaChile",
+      "url": "https://conecta.planfibra.cl",
+      "category": "Micrositios",
+      "description": "Información y comparación de internet hogar.",
+      "emoji": "🧭",
+      "featured": false,
+      "kind": "public",
+      "slug": "conectachile"
+    },
+    {
+      "name": "HayFibra",
+      "url": "https://disponible.planfibra.cl",
+      "category": "Micrositios",
+      "description": "Orientación para revisar factibilidad de fibra.",
+      "emoji": "✅",
+      "featured": false,
+      "kind": "public",
+      "slug": "hayfibra"
+    },
+    {
+      "name": "AhorraNet",
+      "url": "https://barato.planfibra.cl",
+      "category": "Micrositios",
+      "description": "Busca alternativas para ahorrar en internet.",
+      "emoji": "💸",
+      "featured": false,
+      "kind": "public",
+      "slug": "ahorranet"
+    },
+    {
+      "name": "PromoRed",
+      "url": "https://promo.planfibra.cl",
+      "category": "Micrositios",
+      "description": "Conoce promociones de internet residencial.",
+      "emoji": "✨",
+      "featured": false,
+      "kind": "public",
+      "slug": "promored"
+    },
+    {
+      "name": "VelozLab",
+      "url": "https://veloz.planfibra.cl",
+      "category": "Micrositios",
+      "description": "Compara velocidades y necesidades digitales.",
+      "emoji": "🚀",
+      "featured": false,
+      "kind": "public",
+      "slug": "velozlab"
+    },
+    {
+      "name": "PulsoNet",
+      "url": "https://rapido.planfibra.cl",
+      "category": "Herramientas",
+      "description": "Indicadores de velocidad de conexión.",
+      "emoji": "📈",
+      "featured": false,
+      "kind": "public",
+      "slug": "pulsonet"
+    },
+    {
+      "name": "Centro de herramientas",
+      "url": "https://planfibra.cl/herramientas",
+      "category": "Herramientas",
+      "description": "Utilidades para entender tu internet.",
+      "emoji": "🛠️",
+      "featured": false,
+      "kind": "public",
+      "slug": "centro-de-herramientas"
+    },
+    {
+      "name": "Test de velocidad",
+      "url": "https://planfibra.cl/herramientas/test-velocidad",
+      "category": "Herramientas",
+      "description": "Calcula velocidad de subida y descarga.",
+      "emoji": "⏱️",
+      "featured": false,
+      "kind": "public",
+      "slug": "test-de-velocidad"
+    },
+    {
+      "name": "Diagnóstico WiFi",
+      "url": "https://planfibra.cl/herramientas/diagnostico-wifi",
+      "category": "Herramientas",
+      "description": "Identifica problemas de señal inalámbrica.",
+      "emoji": "📡",
+      "featured": false,
+      "kind": "public",
+      "slug": "diagnostico-wifi"
+    },
+    {
+      "name": "Cuántos megas necesito",
+      "url": "https://planfibra.cl/herramientas/cuantos-megas-necesito",
+      "category": "Herramientas",
+      "description": "Estima la velocidad necesaria para tu hogar.",
+      "emoji": "🧮",
+      "featured": false,
+      "kind": "public",
+      "slug": "cuantos-megas-necesito"
+    },
+    {
+      "name": "Calculadora de ahorro",
+      "url": "https://planfibra.cl/herramientas/calcular-ahorro-internet",
+      "category": "Herramientas",
+      "description": "Compara gastos y opciones de conexión.",
+      "emoji": "💰",
+      "featured": false,
+      "kind": "public",
+      "slug": "calculadora-de-ahorro"
+    },
+    {
+      "name": "Mundo PlanFibra",
+      "url": "https://mundo.planfibra.cl",
+      "category": "Herramientas",
+      "description": "Herramientas gratuitas de uso cotidiano.",
+      "emoji": "🌍",
+      "featured": false,
+      "kind": "public",
+      "slug": "mundo-planfibra"
+    },
+    {
+      "name": "Hoy PlanFibra",
+      "url": "https://hoy.planfibra.cl",
+      "category": "Actualidad",
+      "description": "Noticias, cultura, actualidad y tendencias.",
+      "emoji": "📰",
+      "featured": true,
+      "kind": "public",
+      "slug": "hoy-planfibra"
+    },
+    {
+      "name": "Tecnología",
+      "url": "https://tecnologia.planfibra.cl",
+      "category": "Actualidad",
+      "description": "IA, ciencia y avances tecnológicos.",
+      "emoji": "🤖",
+      "featured": true,
+      "kind": "public",
+      "slug": "tecnologia"
+    },
+    {
+      "name": "Finanzas",
+      "url": "https://finanzas.planfibra.cl",
+      "category": "Actualidad",
+      "description": "Economía, empresas e indicadores.",
+      "emoji": "📊",
+      "featured": false,
+      "kind": "public",
+      "slug": "finanzas"
+    },
+    {
+      "name": "Redes PlanFibra",
+      "url": "https://redes.planfibra.cl",
+      "category": "Comunidad",
+      "description": "Red social para conectar y compartir.",
+      "emoji": "💬",
+      "featured": true,
+      "kind": "public",
+      "slug": "redes-planfibra"
+    },
+    {
+      "name": "Comunidad PlanFibra",
+      "url": "https://comunidad.planfibra.cl",
+      "category": "Comunidad",
+      "description": "Ayuda, colaboración y voluntariado.",
+      "emoji": "💚",
+      "featured": true,
+      "kind": "public",
+      "slug": "comunidad-planfibra"
+    },
+    {
+      "name": "Encuentros",
+      "url": "https://encuentros.planfibra.cl",
+      "category": "Comunidad",
+      "description": "Conoce personas y crea nuevas conexiones.",
+      "emoji": "💞",
+      "featured": false,
+      "kind": "public",
+      "slug": "encuentros"
+    },
+    {
+      "name": "Job PlanFibra",
+      "url": "https://job.planfibra.cl",
+      "category": "Servicios",
+      "description": "Empleos y conexión de talentos con empresas.",
+      "emoji": "💼",
+      "featured": false,
+      "kind": "public",
+      "slug": "job-planfibra"
+    },
+    {
+      "name": "CasaRey Propiedades",
+      "url": "https://propiedades.planfibra.cl",
+      "category": "Servicios",
+      "description": "Propiedades y oportunidades inmobiliarias.",
+      "emoji": "🏡",
+      "featured": false,
+      "kind": "public",
+      "slug": "casarey-propiedades"
+    },
+    {
+      "name": "XP Tienda",
+      "url": "https://xptienda.planfibra.cl",
+      "category": "Servicios",
+      "description": "Vitrina de productos y tecnología.",
+      "emoji": "🛍️",
+      "featured": true,
+      "kind": "public",
+      "slug": "xp-tienda"
+    },
+    {
+      "name": "Mercado XP",
+      "url": "https://mercado.planfibra.cl",
+      "category": "Servicios",
+      "description": "Avisos y oportunidades de compraventa.",
+      "emoji": "🏪",
+      "featured": false,
+      "kind": "public",
+      "slug": "mercado-xp"
+    },
+    {
+      "name": "Seguridad",
+      "url": "https://seguridad.planfibra.cl",
+      "category": "Servicios",
+      "description": "Consejos sobre alarmas y protección del hogar.",
+      "emoji": "🛡️",
+      "featured": false,
+      "kind": "public",
+      "slug": "seguridad"
+    },
+    {
+      "name": "iHogarYa",
+      "url": "https://ihogarya.planfibra.cl",
+      "category": "Servicios",
+      "description": "Información para elegir internet en casa.",
+      "emoji": "🏘️",
+      "featured": false,
+      "kind": "public",
+      "slug": "ihogarya"
+    },
+    {
+      "name": "TVCable",
+      "url": "https://tvcable.planfibra.cl",
+      "category": "Experiencias",
+      "description": "Cine, series, televisión y nostalgia.",
+      "emoji": "🎞️",
+      "featured": false,
+      "kind": "public",
+      "slug": "tvcable"
+    },
+    {
+      "name": "Juegos",
+      "url": "https://juegos.planfibra.cl",
+      "category": "Experiencias",
+      "description": "Juegos clásicos para desafiar la mente.",
+      "emoji": "♟️",
+      "featured": true,
+      "kind": "public",
+      "slug": "juegos"
+    },
+    {
+      "name": "Órbita",
+      "url": "https://orbita.planfibra.cl",
+      "category": "Experiencias",
+      "description": "Descubre ciudades, lugares y culturas.",
+      "emoji": "🌎",
+      "featured": false,
+      "kind": "public",
+      "slug": "orbita"
+    },
+    {
+      "name": "Messenger Retro",
+      "url": "https://messenger.planfibra.cl",
+      "category": "Experiencias",
+      "description": "Experiencia nostálgica de mensajería web.",
+      "emoji": "🦋",
+      "featured": false,
+      "kind": "public",
+      "slug": "messenger-retro"
+    },
+    {
+      "name": "FotoLook",
+      "url": "https://fotolook.planfibra.cl",
+      "category": "Experiencias",
+      "description": "Exploración de imagen y experiencias visuales.",
+      "emoji": "📸",
+      "featured": false,
+      "kind": "public",
+      "slug": "fotolook"
+    },
+    {
+      "name": "IP Cam",
+      "url": "https://ipcam.planfibra.cl",
+      "category": "Tecnología",
+      "description": "Visualización y gestión de cámaras.",
+      "emoji": "📹",
+      "featured": false,
+      "kind": "public",
+      "slug": "ip-cam"
+    },
+    {
+      "name": "REMOTE IA",
+      "url": "https://remoteia.planfibra.cl",
+      "category": "Tecnología",
+      "description": "Asistencia remota con acceso controlado.",
+      "emoji": "🖥️",
+      "featured": false,
+      "kind": "public",
+      "slug": "remote-ia"
+    },
+    {
+      "name": "Terminal de Ventas",
+      "url": "https://terminal.planfibra.cl",
+      "category": "Tecnología",
+      "description": "Sistema comercial de acceso autorizado.",
+      "emoji": "🗂️",
+      "featured": false,
+      "kind": "public",
+      "slug": "terminal-de-ventas"
+    },
+    {
+      "name": "Radar",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Análisis interno de tráfico y rendimiento comercial.",
+      "emoji": "📊",
+      "featured": false,
+      "kind": "internal",
+      "slug": "radar"
+    },
+    {
+      "name": "SuperPanel",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Centro privado de seguimiento del ecosistema.",
+      "emoji": "🧩",
+      "featured": false,
+      "kind": "internal",
+      "slug": "superpanel"
+    },
+    {
+      "name": "REY Marketing Factory",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Producción interna de contenidos digitales.",
+      "emoji": "🎨",
+      "featured": false,
+      "kind": "internal",
+      "slug": "rey-marketing-factory"
+    },
+    {
+      "name": "SEO Factory",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Automatización de procesos editoriales y SEO.",
+      "emoji": "🔬",
+      "featured": false,
+      "kind": "internal",
+      "slug": "seo-factory"
+    },
+    {
+      "name": "News Guardian",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Automatizaciones de contenidos informativos.",
+      "emoji": "🛡️",
+      "featured": false,
+      "kind": "internal",
+      "slug": "news-guardian"
+    },
+    {
+      "name": "PlanFibra ID",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Sistema de identidad y acceso unificado.",
+      "emoji": "🔐",
+      "featured": false,
+      "kind": "internal",
+      "slug": "planfibra-id"
+    },
+    {
+      "name": "REY Ventas",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Gestión interna de operaciones comerciales.",
+      "emoji": "📋",
+      "featured": false,
+      "kind": "internal",
+      "slug": "rey-ventas"
+    },
+    {
+      "name": "Radar Móvil",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Exploración de métricas y operación desde dispositivos móviles.",
+      "emoji": "📱",
+      "featured": false,
+      "kind": "internal",
+      "slug": "radar-movil"
+    },
+    {
+      "name": "REY Agent",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Herramientas locales de asistentes y automatización.",
+      "emoji": "🤖",
+      "featured": false,
+      "kind": "internal",
+      "slug": "rey-agent"
+    },
+    {
+      "name": "REY Local AI",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Proyecto experimental de inteligencia artificial local.",
+      "emoji": "🧠",
+      "featured": false,
+      "kind": "internal",
+      "slug": "rey-local-ai"
+    },
+    {
+      "name": "REY Orquestador",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Componentes de coordinación de flujos tecnológicos.",
+      "emoji": "🔄",
+      "featured": false,
+      "kind": "internal",
+      "slug": "rey-orquestador"
+    },
+    {
+      "name": "REY Mensajes",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Herramientas de preparación y gestión de mensajes.",
+      "emoji": "✉️",
+      "featured": false,
+      "kind": "internal",
+      "slug": "rey-mensajes"
+    },
+    {
+      "name": "REY Security",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Sistema de investigación y herramientas de seguridad.",
+      "emoji": "🛡️",
+      "featured": false,
+      "kind": "internal",
+      "slug": "rey-security"
+    },
+    {
+      "name": "REY Camera",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Prototipos y utilidades para cámaras digitales.",
+      "emoji": "📷",
+      "featured": false,
+      "kind": "internal",
+      "slug": "rey-camera"
+    },
+    {
+      "name": "REY PC Bridge",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Componentes técnicos de comunicación con equipos.",
+      "emoji": "🖧",
+      "featured": false,
+      "kind": "internal",
+      "slug": "rey-pc-bridge"
+    },
+    {
+      "name": "REY Runner",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Experimentos de ejecución de tareas automatizadas.",
+      "emoji": "⚙️",
+      "featured": false,
+      "kind": "internal",
+      "slug": "rey-runner"
+    },
+    {
+      "name": "SEO Factory PlanFibra",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Herramientas SEO de apoyo al portal principal.",
+      "emoji": "🧭",
+      "featured": false,
+      "kind": "internal",
+      "slug": "seo-factory-planfibra"
+    },
+    {
+      "name": "SEO Factory ComparaFibra",
+      "url": "",
+      "category": "Laboratorio",
+      "description": "Herramientas SEO específicas de ComparaFibra.",
+      "emoji": "🧪",
+      "featured": false,
+      "kind": "internal",
+      "slug": "seo-factory-comparafibra"
+    }
+  ]
+}
